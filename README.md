@@ -1,8 +1,8 @@
 # Power-Bi-project
 Income Evaluation:
-OVERVIEW:
+*OVERVIEW:
 This is Power Bi report provides an interactive analysis of income distribution based on occupation ,gender,and work class.The goal is to identify income patterns using visualizations and filters for better understanding and exploration of the dataset.
-FEATURES:
+*FEATURES:
 1.100% stacked column char showing the percentage distribution of income by occupation,gender,and work class.
 2.cards visuals to display the sum of Capital Gain and sum of Capital Loss.
 3.Table listing occupation,work class,total age(sum),and income for detailed insights.
